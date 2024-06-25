@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305869164067",
+    "project_id": "prototipo1-d9661",
+    "storage_bucket": "prototipo1-d9661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305869164067:android:9c8121592f9e439574ab96",
+        "android_client_info": {
+          "package_name": "com.alejandroBel.prototipo10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDglOoGn4L8Ha94RslX7DcQqNhvMw6Ro20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

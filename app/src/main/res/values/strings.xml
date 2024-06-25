@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prototipo1.0</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="crear_una">Crear Una</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="prograquest">PrograQuest</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="crear_cuenta">Crear Cuenta!</string>
+</resources>
